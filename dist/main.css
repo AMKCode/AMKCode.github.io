@@ -9265,8 +9265,8 @@ p {
     position: relative; }
     .banner-content-right .dot-shadow-img {
       position: absolute;
-      top: 20%;
-      right: 20%; }
+      top: 30%;
+      right: 30%; }
 
 @media (min-width: 992px) and (max-width: 1200px) {
   .banner-content-left h3, .banner-content-left .h3 {
