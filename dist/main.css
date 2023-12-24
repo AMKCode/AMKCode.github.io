@@ -9960,7 +9960,7 @@ p {
   position: relative;
   z-index: 1;
   overflow: hidden; }
-  .contact-area-info {
+  /* .contact-area-info {
     padding: 48px;
     background-color: #FFFFFF;
     border-radius: 8px;
@@ -9968,7 +9968,7 @@ p {
             box-shadow: 0px 12px 24px rgba(10, 25, 49, 0.02); }
     .contact-area-info h3, .contact-area-info .h3 {
       color: #0A1931;
-      margin-bottom: 24px; }
+      margin-bottom: 24px; } */
     .contact-area-info .contact-form form .top-input {
       display: -webkit-box;
       display: -webkit-flex;
