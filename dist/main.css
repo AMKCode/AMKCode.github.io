@@ -9244,7 +9244,7 @@ p {
   .banner-content-left .btn--primary {
     margin-right: 16px; }
   .banner-content-left .follow-content {
-    margin-top: 200px; }
+    margin-top: 50px; }
     .banner-content-left .follow-content span {
       font-size: 16px;
       font-weight: 400;
@@ -9620,7 +9620,7 @@ p {
         -ms-flex-pack: center;
             justify-content: center; }
     .company-content h3 span, .company-content .h3 span {
-      color: #; }
+      color: #0437F2; }
     .company-content .social-img-icon {
       margin-right: 24px; }
       .company-content .social-img-icon:last-child {
